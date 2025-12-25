@@ -2,7 +2,7 @@
 
 This is a simple console-based C# application that simulates a basic leave approval process used in many organizations.
 
-I built this project to practice and demonstrate modern C# concepts such as records, enums, and pattern matching, while keeping the logic realistic and easy to understand.
+I built this project to practice and demonstrate modern C# concepts such as records, and pattern matching, while keeping the logic realistic and easy to understand.
 
 The application takes employee input from the console and decides whether a leave request is auto-approved or requires manager/HR approval based on predefined rules.
 
@@ -36,7 +36,6 @@ The application takes employee input from the console and decides whether a leav
 ## Concepts used in this project
 
 - C# Records for immutable data modeling
-- Enums to avoid string-based errors
 - Switch pattern matching for clean business logic
 - Console input/output handling
 - Separation of concerns using Models and Services
