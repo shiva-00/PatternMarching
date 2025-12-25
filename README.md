@@ -44,3 +44,24 @@ The application takes employee input from the console and decides whether a leav
 
 ## Project structure
 
+  LeaveApprovalSystem/
+  │
+  ├── src/
+  │ └── LeaveApprovalSystem/
+  │ ├── Models/
+  │ ├── Enums/
+  │ ├── Services/
+  │ └── Program.cs
+  │
+  └── README.md
+
+
+## How to run the project
+
+Make sure you have .NET SDK installed.
+
+From the project folder, run:
+ - dotnet run
+
+
+
