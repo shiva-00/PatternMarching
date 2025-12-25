@@ -1,0 +1,14 @@
+D:\Github\LeaveMangementSystem\Leave_Management\bin\Debug\net9.0\Leave_Management.exe
+D:\Github\LeaveMangementSystem\Leave_Management\bin\Debug\net9.0\Leave_Management.deps.json
+D:\Github\LeaveMangementSystem\Leave_Management\bin\Debug\net9.0\Leave_Management.runtimeconfig.json
+D:\Github\LeaveMangementSystem\Leave_Management\bin\Debug\net9.0\Leave_Management.dll
+D:\Github\LeaveMangementSystem\Leave_Management\bin\Debug\net9.0\Leave_Management.pdb
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\Leave_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\Leave_Management.AssemblyInfoInputs.cache
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\Leave_Management.AssemblyInfo.cs
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\Leave_Management.csproj.CoreCompileInputs.cache
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\Leave_Management.dll
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\refint\Leave_Management.dll
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\Leave_Management.pdb
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\Leave_Management.genruntimeconfig.cache
+D:\Github\LeaveMangementSystem\Leave_Management\obj\Debug\net9.0\ref\Leave_Management.dll
