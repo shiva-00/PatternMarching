@@ -58,10 +58,13 @@ The application takes employee input from the console and decides whether a leav
 
 ## How to run the project
 
-Make sure you have .NET SDK installed.
+  -Make sure you have .NET SDK installed.
 
-From the project folder, run:
- - dotnet run
-
-
+  -Clone the repository
+  
+  -Open the solution in Visual Studio
+  
+  -Build the project
+  
+  -Run Program.cs
 
